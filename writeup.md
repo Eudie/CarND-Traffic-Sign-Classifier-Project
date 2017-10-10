@@ -103,10 +103,19 @@ I have followed an iterative approach:
 Here are five German traffic signs that I found on the web:
 
 <img src="./test_images/1.jpg" alt="Drawing" style="width: 200px;"/>
+This image might be difficult to classify may be because of background trees and may because sign is not at center
+
 <img src="./test_images/2.jpg" alt="Drawing" style="width: 200px;"/>
+This image might be difficult to classify may be because of broken top or high intensity
+
 <img src="./test_images/3.jpg" alt="Drawing" style="width: 200px;"/>
+This image might be difficult to classify may be because of after the image might get distroted after resizing to 32x32
+
 <img src="./test_images/4.jpg" alt="Drawing" style="width: 200px;"/>
+This image might be difficult to classify may be because of so many similar looking classes
+
 <img src="./test_images/5.jpg" alt="Drawing" style="width: 200px;"/>
+This image might be difficult to classify may be because of watermark
 
 
 #### 2. Here are the results of the prediction:
